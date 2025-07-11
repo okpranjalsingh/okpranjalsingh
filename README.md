@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Aspiring AI Engineer | 🧠 Django Backend Developer | 🛡️ Cybersecurity BCA Graduate</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Python+Developer+%F0%9F%90%8D;DRF+%7C+Django+Rest+API+Expert+%E2%9A%99%EF%B8%8F;Learning+AI+%26+Machine+Learning+%F0%9F%94%A1;GitHub+Lover+%E2%9D%A4%EF%B8%8F;Coffee+%2B+Code+%3D+Life+%E2%98%95%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Python+Developer+%F0%9F%90%8D;DRF+%7C+Django+Rest+API+Expert+%E2%9A%99%EF%B8%8F;Learning+AI+%26+Machine+Learning+%F0%9F%94%A1;GitHub+is+Lover+%E2%9D%A4%EF%B8%8F;Coffee+%2B+Code+%3D+Life+%E2%98%95%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 ---
