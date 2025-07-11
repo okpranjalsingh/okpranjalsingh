@@ -48,8 +48,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=okpranjalsingh&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=okpranjalsingh&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats-git-master-rstaa.vercel.app/api?username=okpranjalsingh&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.demolab.com/?user=okpranjalsingh&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -58,11 +58,19 @@
 
 ---
 
+### 📊 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=okpranjalsingh&theme=tokyo-night" />
+</p>
+
+---
+
 ### 📂 Featured Projects
 
-- 🔧 [BugRadar](https://github.com/okpranjalsingh/BugRadar) - Bug tracker app for developers and teams  
-- 📚 [EDUMS](https://github.com/okpranjalsingh/edums) - Education Management System  
-- 🧪 More coming soon...
+- 🔧 [BugRadar](https://github.com/okpranjalsingh/BugRadar) – Bug tracking system for developers
+- 📚 [EDUMS](https://github.com/okpranjalsingh/edums) – Educational management system
+- 🚧 More exciting projects coming soon...
 
 ---
 
@@ -75,5 +83,4 @@
 
 ---
 
-> ⚙️ *Always Learning. Always Building. Always Shipping.*
-
+<p align="center"><i>⚙️ Always Learning. Always Building. Always Shipping.</i></p>
