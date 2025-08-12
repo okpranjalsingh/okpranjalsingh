@@ -9,7 +9,6 @@
 
 ### 💫 About Me
 
-- 🔭 Building: `projects are private'
 - 🌱 Currently working with: **Faust**, **Kafka**, **Apache Flink**, **Docker**, **GitHub Actions**
 - 🎯 Focus: Backend + Streaming + AI + ML
 - MCA in ( Ai and ML)
