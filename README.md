@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranjal Singh</h1>
-<h3 align="center">🚀 Aspiring AI Engineer | 🧠 Django Backend Developer | 🛡️ Cybersecurity BCA Graduate</h3>
+<h3 align="center">🚀 Persuing MCA ( Ai & Ml)| Aspiring AI Engineer | 🧠 Django Backend Developer | 🛡️ Cybersecurity BCA Graduate</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Python+Developer+%F0%9F%90%8D;DRF+%7C+Django+Rest+API+Expert+%E2%9A%99%EF%B8%8F;Learning+AI+%26+Machine+Learning+%F0%9F%94%A1;GitHub+Lover+%E2%9D%A4%EF%B8%8F;Coffee+%2B+Code+%3D+Life+%E2%98%95%EF%B8%8F" alt="Typing SVG" />
@@ -9,10 +9,11 @@
 
 ### 💫 About Me
 
-- 🔭 Building: `BugRadar`, `EDUMS`
-- 🌱 Currently learning: **Faust**, **Kafka**, **Apache Flink**, **Docker**, **GitHub Actions**
-- 🎯 Focus: Backend + Streaming + AI Engineering
-- 🎓 BCA (Cybersecurity & Forensics) @ BBD University
+- 🔭 Building: `projects are private'
+- 🌱 Currently working with: **Faust**, **Kafka**, **Apache Flink**, **Docker**, **GitHub Actions**
+- 🎯 Focus: Backend + Streaming + AI + ML
+- MCA in ( Ai and ML)
+- 🎓 BCA (Cybersecurity & Forensics) @ BBD University, Lucknow
 - 📬 Email: [okpranjalsingh@gmail.com](mailto:okpranjalsingh@gmail.com)
 - 🔗 LinkedIn: [pranjal-singh](https://www.linkedin.com/in/pranjal-singh-789719298/)
 - 💡 Fun Fact: “I debug like Sherlock, and ship like Tony Stark.”
@@ -37,34 +38,15 @@
 
 ---
 
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=okpranjalsingh&theme=tokyo-night&area=true" />
-</p>
-
----
-
-### 🐍 Snake Game – Contributions Tracker
-
 <p align="center">
   <img src="https://github.com/okpranjalsingh/okpranjalsingh/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
-
-- [BugRadar](https://github.com/okpranjalsingh/BugRadar) – A smart bug-tracking and ticketing system
-- [EDUMS](https://github.com/okpranjalsingh/edums) – A complete education management system
-- More coming soon...
-
----
-
 ### 📬 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pranjal-singh-789719298/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:okpranjalsingh@gmail.com"><img src="https://img.shields.io/badge/-Email-grey?style=for-the-badge&logo=gmail" /></a>
 </p>
 
