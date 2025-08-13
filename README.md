@@ -1,20 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pranjal Singh</h1>
 <h3 align="center">🚀 Persuing MCA ( Ai & Ml)| Aspiring AI Engineer | 🧠 Django Backend Developer | 🛡️ Cybersecurity BCA Graduate</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Python+Developer+%F0%9F%90%8D;DRF+%7C+Django+Rest+API+Expert+%E2%9A%99%EF%B8%8F;Learning+AI+%26+Machine+Learning+%F0%9F%94%A1;GitHub+Lover+%E2%9D%A4%EF%B8%8F;Coffee+%2B+Code+%3D+Life+%E2%98%95%EF%B8%8F" alt="Typing SVG" />
-</p>
-
 ---
-
 ### 💫 About Me
 
 - 🌱 Currently working with: **Faust**, **Kafka**, **Apache Flink**, **Docker**, **GitHub Actions**
 - 🎯 Focus: Backend + Streaming + AI + ML
-- MCA in ( Ai and ML)
+- MCA in ( Ai and ML), Chandigarh University (ongoing)
 - 🎓 BCA (Cybersecurity & Forensics) @ BBD University, Lucknow
 - 📬 Email: [okpranjalsingh@gmail.com](mailto:okpranjalsingh@gmail.com)
-- 🔗 LinkedIn: [pranjal-singh](https://www.linkedin.com/in/pranjal-singh-789719298/)
 - 💡 Fun Fact: “I debug like Sherlock, and ship like Tony Stark.”
 
 ---
@@ -36,13 +29,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
-<p align="center">
-  <img src="https://github.com/okpranjalsingh/okpranjalsingh/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
-
----
-
 ### 📬 Connect With Me
 
 <p align="center">
