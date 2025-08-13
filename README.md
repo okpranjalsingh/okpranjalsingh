@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pranjal Singh</h1>
 <h3 align="center">🚀 Persuing MCA ( Ai & Ml)| Aspiring AI Engineer | 🧠 Django Backend Developer | 🛡️ Cybersecurity BCA Graduate</h3>
 ---
-### 💫 About Me
+
+About Me-
 
 - 🌱 Currently working with: **Faust**, **Kafka**, **Apache Flink**, **Docker**, **GitHub Actions**
 - 🎯 Focus: Backend + Streaming + AI + ML
@@ -12,9 +13,9 @@
 
 ---
 
-### 🛠️ Tech Stack
+🛠️ Tech Stack
 
-#### Languages & Tools
+Languages & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django)
