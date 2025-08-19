@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pranjal Singh</h1>
-<h3 align="center">🚀 Persuing MCA ( Ai & Ml)| Aspiring AI Engineer | 🧠 Django Backend Developer | 🛡️ Cybersecurity BCA Graduate</h3>
+<h3 align="center">🚀 Persuing MCA ( Ai & Ml)| Aspiring AI Engineer | Developer | 🛡️ BCA in Cybersecurity & Forensics affilated by IBM /h3>
 ---
 
 About Me-
 
 - 🌱 Currently working with: **Faust**, **Kafka**, **Apache Flink**, **Docker**, **GitHub Actions**
-- 🎯 Focus: Backend + Streaming + AI + ML
-- MCA in ( Ai and ML), Chandigarh University (ongoing)
+- 🎓 MCA in ( Ai and ML), Chandigarh University (ongoing)
 - 🎓 BCA (Cybersecurity & Forensics) @ BBD University, Lucknow
 - 📬 Email: [okpranjalsingh@gmail.com](mailto:okpranjalsingh@gmail.com)
-- 💡 Fun Fact: “I debug like Sherlock, and ship like Tony Stark.”
 
 ---
 
