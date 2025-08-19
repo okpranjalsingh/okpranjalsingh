@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranjal Singh</h1>
-<h3 align="center">🚀 Persuing MCA ( Ai & Ml)| Aspiring AI Engineer | Developer | 🛡️ BCA in Cybersecurity & Forensics affilated by IBM /h3>
+<h3 align="center">🚀 Persuing MCA ( Ai & Ml)| Aspiring AI Engineer | Developer | 🛡️ BCA in Cybersecurity & Forensics affilated by IBM </h3>
 ---
 
 About Me-
