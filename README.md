@@ -9,7 +9,7 @@ About Me-
 - 🎓 BCA (Cybersecurity & Forensics) @ BBD University, Lucknow
 - 📬 Email: [okpranjalsingh@gmail.com](mailto:okpranjalsingh@gmail.com)
 
----
+
 
 🛠️ Tech Stack
 
